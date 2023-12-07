@@ -1,0 +1,25 @@
+body {
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+input[type='text'] {
+  border: 2px solid darkgray;
+  font-size: 20px;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 20px;
+}

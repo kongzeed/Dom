@@ -1,0 +1,35 @@
+.message {
+  border: 1px solid black;
+  margin: 1px;
+  background-color: lightblue;
+  width: 500px;
+}
+
+.text {
+  border: 1px solid black;
+  margin: 1px;
+  background-color: white;
+  width: 500px;
+}
+
+.text.orange-box {
+  border: 1px solid black;
+  margin: 1px;
+  background-color: orange;
+  width: 500px;
+}
+.text.green-box {
+  border: 1px solid black;
+  margin: 1px;
+  background-color: green;
+  width: 500px;
+}
+.dark-theme {
+  color: white;
+  background-color: black;
+}
+.dark-theme .text {
+  color: white;
+  background-color: black;
+  border-color: chocolate;
+}

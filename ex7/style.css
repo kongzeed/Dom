@@ -1,0 +1,17 @@
+.equip-slot {
+  background-color: rgb(37, 201, 250);
+  display: inline-block;
+  padding: 20px;
+}
+
+.weapon-list {
+  background-color: lightgray;
+  display: inline-block;
+  padding: 20px;
+}
+
+.equip-weapon,
+.weapon {
+  width: 120px;
+  height: 120px;
+}

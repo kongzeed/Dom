@@ -1,0 +1,30 @@
+.todo-title {
+  font-size: 20px;
+  border: 1px solid darkgray;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 10px;
+}
+
+.add-todo {
+  font-size: 20px;
+  width: 100%;
+  padding: 10px;
+}
+
+.todo {
+  font-size: 20px;
+  background-color: gold;
+  border: 2px solid #333333;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  padding: 16px;
+  position: relative;
+}
+
+.remove-todo {
+  font-size: 16px;
+  position: absolute;
+  top: 6px;
+  right: 6px;
+}
